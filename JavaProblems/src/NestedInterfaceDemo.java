@@ -13,6 +13,10 @@ class Testing implements Test.Yes {
     {
         System.out.println("show method of interface");
     }
+
+    public  void toCheckAnonymous(){
+        System.out.println("Inside the class Testing to check anonymous class");
+    }
 }
 
 class TestClass extends Test{
@@ -37,12 +41,22 @@ public class NestedInterfaceDemo {
         Test.Yes t2 = new Testing();
         t2.show();
 
+        Testing test = new Testing();
+        test.toCheckAnonymous();
+
         TestClass t3 = new TestClass();
         t3.classMethod();
 
         Test t4 = new TestClass();
         t4.testMethod();
 
+        Test.Yes tanonymous = new Test.Yes() {
+            @Override
+            public void show() {
+                System.out.println("inside anonymous nested method");
+            }
+        };
 
     }
+
 }

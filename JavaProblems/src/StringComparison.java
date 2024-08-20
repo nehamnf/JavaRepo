@@ -10,6 +10,7 @@ public class StringComparison {
         System.out.println("len2: "+len2);
         int minLength = Math.min(len1, len2);
 
+
         int i = 0;
         while (i < minLength) {
 
