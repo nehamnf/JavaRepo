@@ -1,10 +1,12 @@
 package javaconcepts;
 
+
 public class Formatting {
     public static void main(String[] args) {
         int i=10000;
         //System.out.printf("%.d%n",a);
-        System.out.printf("%,d",i);
+        System.out.printf("%,d\n",i);
+        System.out.format("%6d\n",i);
 
         // declaring double
         double a = 3.14159265359;
@@ -19,9 +21,9 @@ public class Formatting {
         Integer d = null;
         //javaconcepts.Formatting Done using printf
         System.out.printf("%b\n", aa);
-        System.out.printf("%javaconcepts.B\n", b);
+        System.out.printf("%B\n", b);
         System.out.printf("%b\n", c);
-        System.out.printf("%javaconcepts.B\n", d);
+        System.out.printf("%d\n", d);
 
         char cc = 'g';
         // javaconcepts.Formatting Done
