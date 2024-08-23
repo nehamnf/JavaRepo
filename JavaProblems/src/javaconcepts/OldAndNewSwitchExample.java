@@ -1,3 +1,5 @@
+package javaconcepts;
+
 public class OldAndNewSwitchExample {
     public static void main(String[] args) {
 

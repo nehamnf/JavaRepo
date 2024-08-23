@@ -1,3 +1,5 @@
+package javaconcepts;
+
 class OuterClass {
     // static member
     static int outer_x = 10;

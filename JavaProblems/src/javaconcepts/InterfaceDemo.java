@@ -1,3 +1,5 @@
+package javaconcepts;
+
 interface intfA {
     void geekName();
 }
@@ -24,7 +26,7 @@ class InterfaceDemo implements intfC {
     public void geekBranch() { System.out.println("CSE"); }
 
     public void classMethod(){
-        System.out.println("this class method of InterfaceDemo");
+        System.out.println("this class method of javaconcepts.InterfaceDemo");
     }
 
     public static void main(String[] args)
@@ -40,7 +42,7 @@ class InterfaceDemo implements intfC {
         infC.geekName();
         infC.geekBranch();
 
-        //can not call the classMethod using the type of intfC as the object created in heap is of type InterfaceDemo
+        //can not call the classMethod using the type of javaconcepts.intfC as the object created in heap is of type javaconcepts.InterfaceDemo
         //infC.classMethod();
     }
 }

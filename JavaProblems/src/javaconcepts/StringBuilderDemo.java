@@ -1,3 +1,5 @@
+package javaconcepts;
+
 public class StringBuilderDemo {
     public static void main(String[] args) {
         // create a StringBuilder object

@@ -1,3 +1,5 @@
+package javaconcepts;
+
 enum Day {
     SUNDAY,
     MONDAY,

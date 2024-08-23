@@ -1,3 +1,5 @@
+package javaconcepts;
+
 import java.util.Arrays;
 
 public class ArrayClassDemo {

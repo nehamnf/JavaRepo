@@ -1,10 +1,12 @@
+package javaconcepts;
+
 class Test {
     interface Yes {
         void show();
     }
 
     public void testMethod(){
-        System.out.println("Test Method");
+        System.out.println("javaconcepts.Test Method");
     }
 }
 
@@ -15,7 +17,7 @@ class Testing implements Test.Yes {
     }
 
     public  void toCheckAnonymous(){
-        System.out.println("Inside the class Testing to check anonymous class");
+        System.out.println("Inside the class javaconcepts.Testing to check anonymous class");
     }
 }
 

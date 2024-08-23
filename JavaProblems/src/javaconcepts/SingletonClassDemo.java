@@ -1,3 +1,5 @@
+package javaconcepts;
+
 class MySingleton
 {
     static MySingleton instance = null;

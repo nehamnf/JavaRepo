@@ -1,3 +1,5 @@
+package javaconcepts;
+
 class A {
 
 }
@@ -12,7 +14,7 @@ class Base {
     A fun()
     {
         // Display message only
-        System.out.println("Base fun()");
+        System.out.println("javaconcepts.Base fun()");
 
         return new A();
     }
@@ -24,7 +26,7 @@ class Derived extends Base {
     B fun()
     {
         // Display message only
-        System.out.println("Derived fun()");
+        System.out.println("javaconcepts.Derived fun()");
 
         return new B();
     }

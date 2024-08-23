@@ -1,3 +1,4 @@
+package javaconcepts;
 
 class Parent {
     // Static method in base class
@@ -19,13 +20,13 @@ class Parent {
 }
 
 class Child extends Parent {
-    // This method hides m1() in Parent
+    // This method hides m1() in javaconcepts.Parent
     static void m1()
     {
         System.out.println("From child static m1()");
     }
 
-    // This method overrides m2() in Parent
+    // This method overrides m2() in javaconcepts.Parent
     @Override public void m2()
     {
         System.out.println(
@@ -40,14 +41,14 @@ public class MethodHidingDemo {
         Parent obj1 = new Child();
 
         // As per overriding rules this
-        // should call to class Child static
+        // should call to class javaconcepts.Child static
         // overridden method. Since static
         // method can not be overridden, it
-        // calls Parent's m1()
+        // calls javaconcepts.Parent's m1()
         obj1.m1();
 
         // Here overriding works
-        // and Child's m2() is called
+        // and javaconcepts.Child's m2() is called
         obj1.m2();
 
         Child chObj = new Child();

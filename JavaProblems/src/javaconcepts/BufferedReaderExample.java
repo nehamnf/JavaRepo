@@ -1,3 +1,5 @@
+package javaconcepts;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -9,7 +11,7 @@ public class BufferedReaderExample {
 
         // Creating object of FileReader and BufferedReader
         // class
-        FileReader fr = new FileReader("file.txt");
+        FileReader fr = new FileReader("src/javaconcepts/file.txt");
         BufferedReader br = new BufferedReader(fr);
 
         char[] c = new char[20];

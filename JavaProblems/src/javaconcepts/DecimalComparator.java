@@ -1,3 +1,5 @@
+package javaconcepts;
+
 public class DecimalComparator {
     public static void main(String[] args) {
         System.out.println(areEqualByThreeDecimalPlaces(35.0,5.0));

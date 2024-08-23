@@ -1,3 +1,5 @@
+package javaconcepts;
+
 public class StringDemo {
     public static void main(String[] args) {
         byte[] b_arr = {71, 101, 101, 107, 115};

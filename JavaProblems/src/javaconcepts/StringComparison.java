@@ -1,3 +1,5 @@
+package javaconcepts;
+
 //microsoft
 public class StringComparison {
 
