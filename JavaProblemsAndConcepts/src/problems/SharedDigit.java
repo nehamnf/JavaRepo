@@ -1,3 +1,5 @@
+package problems;
+
 public class SharedDigit {
     public static void main(String[] args) {
         System.out.println(hasSharedDigit(89,19));

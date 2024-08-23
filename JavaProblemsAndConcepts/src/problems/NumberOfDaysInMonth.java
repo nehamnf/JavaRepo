@@ -1,3 +1,5 @@
+package problems;
+
 public class NumberOfDaysInMonth {
     public static void main(String[] args) {
         System.out.println(getDaysInMonth(1,2000));

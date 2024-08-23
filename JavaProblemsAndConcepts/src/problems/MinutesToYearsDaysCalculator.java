@@ -1,3 +1,5 @@
+package problems;
+
 public class MinutesToYearsDaysCalculator {
     public static void main(String[] args) {
         printYearsAndDays(581760);

@@ -1,3 +1,5 @@
+package problems;
+
 public class FactorPrinter {
     public static void main(String[] args) {
         printFactors(-9);

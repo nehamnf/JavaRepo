@@ -1,3 +1,5 @@
+package problems;
+
 public class SpeedConverter {
     public static void main(String[] args) {
 //        System.out.println(toMilesPerHour(75.114));

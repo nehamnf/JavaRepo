@@ -1,3 +1,5 @@
+package problems;
+
 public class PositiveNegativeZero {
     public static void main(String[] args) {
         checkNumber(-8);

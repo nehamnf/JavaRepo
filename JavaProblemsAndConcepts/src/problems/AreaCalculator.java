@@ -1,3 +1,5 @@
+package problems;
+
 import javaconcepts.testPackage;
 
 public class AreaCalculator extends testPackage{
@@ -7,7 +9,7 @@ public class AreaCalculator extends testPackage{
         System.out.println(area(5.0,4.0));
         testPackage  tp= new testPackage();
         tp.testMethod();
-        //new AreaCalculator().testMethod();
+        //new problems.AreaCalculator().testMethod();
     }
 
     public static double area(double radius){

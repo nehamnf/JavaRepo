@@ -1,3 +1,5 @@
+package problems;
+
 public class MegaBytesConverter {
     public static void main(String[] args) {
         printMegaBytesAndKiloBytes(2500);

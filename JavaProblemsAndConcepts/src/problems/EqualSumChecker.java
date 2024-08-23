@@ -1,3 +1,5 @@
+package problems;
+
 public class EqualSumChecker {
     public static void main(String[] args) {
         System.out.println(hasEqualSum(1,-1,2));
