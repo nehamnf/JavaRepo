@@ -14,8 +14,7 @@ public class NumberPalindrome {
         for (int i=1; i <= s.length();i++){
             lastDigit = num % 10;
             num = num / 10;
-            reverse = reverse * 10;
-            reverse = reverse + lastDigit;
+            reverse = reverse * 10 + lastDigit;
             System.out.println(reverse);
         }
         return (reverse == Math.abs(number));

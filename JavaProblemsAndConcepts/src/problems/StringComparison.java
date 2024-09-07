@@ -1,4 +1,4 @@
-package javaconcepts;
+package problems;
 
 //microsoft
 public class StringComparison {
