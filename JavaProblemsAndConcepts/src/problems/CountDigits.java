@@ -2,11 +2,15 @@ package problems;
 
 public class CountDigits {
     public static void main(String[] args) {
-        int x=12345;
+       countDigits(1);
+    }
+
+    public static void countDigits(int n){
         int i;
-        for (i=1;x > 0;i++){
-            x= x /10;
+        for (i=1;n > 0;i++){
+            n= n /10;
         }
         System.out.println(i-1);
+
     }
 }
