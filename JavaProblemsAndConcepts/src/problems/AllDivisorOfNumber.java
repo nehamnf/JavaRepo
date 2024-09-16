@@ -1,5 +1,7 @@
 package problems;
 
+import java.util.Scanner;
+
 public class AllDivisorOfNumber {
     public static void main(String[] args) {
         divisor(100);
@@ -12,6 +14,5 @@ public class AllDivisorOfNumber {
                 System.out.print(i+" ");
             }
         }
-
     }
 }

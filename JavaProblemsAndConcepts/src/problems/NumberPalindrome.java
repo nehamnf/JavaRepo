@@ -2,21 +2,30 @@ package problems;
 
 public class NumberPalindrome {
     public static void main(String[] args) {
-        System.out.println(isPalindrome(-222));
+        System.out.println(isPalindrome(-10));
+        System.out.println(stringPalindrome("TenEt"));
     }
 
     public static boolean isPalindrome(int number){
         int reverse =0;
         int lastDigit;
-        int num = Math.abs(number);
-        String s = String.valueOf(num);
-        System.out.println(s.length());
-        for (int i=1; i <= s.length();i++){
+        int num = number;
+        for (int i=0; num > 0;i++){
             lastDigit = num % 10;
             num = num / 10;
             reverse = reverse * 10 + lastDigit;
-            System.out.println(reverse);
         }
-        return (reverse == Math.abs(number));
+        System.out.println(reverse);
+        System.out.println(number);
+        return (reverse == number);
+    }
+
+    public static boolean stringPalindrome(String s){
+
+        StringBuilder sb= new StringBuilder(s.toLowerCase());
+        String newStr=sb.reverse().toString();
+        System.out.println(sb);
+        System.out.println(newStr);
+        return s.toLowerCase().equals(newStr);
     }
 }
