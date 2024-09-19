@@ -39,5 +39,6 @@ public class IOFunction {
         System.out.println(l);
         System.out.println(b);
         System.out.println(s);
+
     }
 }
