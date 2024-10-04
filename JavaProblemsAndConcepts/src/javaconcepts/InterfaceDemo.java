@@ -14,7 +14,7 @@ interface intfC extends intfA, intfB {
 
 class InterfaceDemo implements intfC {
     @Override
-    public void geekName() { System.out.println("Neha"); }
+    public void geekName() { ; }
 
     @Override
     public void geekInstitute()

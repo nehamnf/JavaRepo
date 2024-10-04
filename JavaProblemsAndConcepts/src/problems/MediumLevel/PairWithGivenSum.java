@@ -1,4 +1,4 @@
-package problems.OtherProblems;
+package problems.MediumLevel;
 
 import java.util.Arrays;
 

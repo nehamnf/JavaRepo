@@ -1,9 +1,9 @@
-package problems.OtherProblems;
+package problems.MediumLevel;
 
 public class KadanesAlgorithm {
     public static void main(String[] args) {
         naiveApproach(new int[]{-2,3,-1,2,3});
-        System.out.println(kadanesApproach(new int[]{-2,3,-1,2,3}));
+        System.out.println(kadanesApproach(new int[]{5,4,-1,7,8}));
     }
 
     public static void naiveApproach(int[] arr){
@@ -32,7 +32,7 @@ public class KadanesAlgorithm {
         int me=0;
         int ms=arr[0];
 
-        for (int i=1;i< arr.length;i++){
+        for (int i=0;i< arr.length;i++){
             me=me+arr[i];
 
             System.out.println(me);
