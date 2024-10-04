@@ -8,11 +8,11 @@ class Mythread extends  Thread {
         while(true){
             System.out.println("i :"+i+" Hello From Thread class");
             i++;
-            try {
-                Thread.sleep(20000);
-            } catch (InterruptedException e) {
-                System.out.println(e);
-            }
+//            try {
+////                Thread.sleep(1000);
+//            } catch (InterruptedException e) {
+//                System.out.println(e);
+//            }
         }
     }
 }
@@ -33,12 +33,14 @@ public class threadDemo {
         System.out.println(t.getPriority());
         System.out.println(t.getContextClassLoader());
         t.start();
-        t.interrupt();
+//        t.interrupt();
         int i=1;
         while(true){
             System.out.println("i :"+i+" Hello From Main");
             i++;
-            Thread.sleep(10000);
+//            Thread.sleep(1000);
+            Thread.yield();
+
         }
     }
 

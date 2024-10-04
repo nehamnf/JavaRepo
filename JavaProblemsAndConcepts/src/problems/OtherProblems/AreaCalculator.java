@@ -1,6 +1,6 @@
 package problems.OtherProblems;
 
-import javaconcepts.testPackage;
+import javaconcepts.other.concepts.testPackage;
 
 public class AreaCalculator extends testPackage{
 
