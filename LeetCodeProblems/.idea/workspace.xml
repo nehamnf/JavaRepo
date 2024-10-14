@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fda18ee-45b0-44bc-925e-268273f9e2b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ATM Machine/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/SortingAlgorithms/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/SortingAlgorithms/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/SortingAlgorithms/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/SortingAlgorithms/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/InterThreadCommunication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/VolatileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/teacherStudent/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/teacherStudent/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/teacherStudent/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/teacherStudent/WhiteBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/OtherProblems/RecursionSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjects/src/atmmachine/Atm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjects/src/atmmachine/AtmMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjects/src/atmmachine/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeAndGFGProblems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/easy/ArrayLeaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/easy/BinaryArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/easy/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/easy/PermutationsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/easy/StableSortPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/hard/MergeSortedArrayWithoutSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Medium/BuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Medium/FactorialTrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Medium/RemoveDuplicates2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Medium/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/BuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/MergeStringsAlternately.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/MergeTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/NthTribonacciSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/NumberOfCommonFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/RemoveDuplicateFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/RomanIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/ValidParanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/twoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/BasicLevel/PeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/BasicLevel/PeakElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProjects/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nehamnf&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nehamnf/JavaRepo.git&quot;,
+    &quot;accountId&quot;: &quot;6a290f08-7937-4671-ab30-25fbcbcf4e11&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2myztsABR6W5YD06JOzS8nvjAjm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayLeaders.executor": "Run",
+    "Application.BuyAndSellStock.executor": "Run",
+    "Application.FactorialTrailingZeroes.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LongestCommonPrefix.executor": "Run",
+    "Application.MajorityElement.executor": "Run",
+    "Application.MergeSortedArray.executor": "Run",
+    "Application.MergeSortedArrayWithoutSpace.executor": "Run",
+    "Application.MergeStringsAlternately.executor": "Run",
+    "Application.MergeTwoSortedArrays.executor": "Run",
+    "Application.NthTribonacciSequence.executor": "Run",
+    "Application.NumberOfCommonFactors.executor": "Run",
+    "Application.PerfectNumber.executor": "Run",
+    "Application.PermutationsInArray.executor": "Run",
+    "Application.PowerOfTwo.executor": "Run",
+    "Application.RemoveDuplicateFromArray.executor": "Run",
+    "Application.RemoveDuplicates2.executor": "Run",
+    "Application.RemoveElement.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.StableSortPosition.executor": "Run",
+    "Application.ValidParanthesis.executor": "Run",
+    "Application.twoSum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/NehaMN/IdeaProjects/JavaRepo/LeetCodeProblems/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fda18ee-45b0-44bc-925e-268273f9e2b4" name="Changes" comment="" />
+      <created>1728063824011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728063824011</updated>
+    </task>
+    <servers />
+  </component>
+</project>

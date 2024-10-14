@@ -5,60 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656cdc19-45f1-4674-b406-06c27cf57fc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/GenericsWildCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/exceptionhandling/CheckedUncheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/exceptionhandling/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/exceptionhandling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/exceptionhandling/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/exceptionhandling/StackOverFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/exceptionhandling/StackUnderFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/exceptionhandling/TryResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/exceptionhandling/demo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/threadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/BasicLevel/BitDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/BasicLevel/PeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/EasyLevel/AddSubWithoutArithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/EasyLevel/KthBitSetOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/EasyLevel/NumberOf1Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/EasyLevel/PartyOfCouples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/EasyLevel/PowerOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/EasyLevel/TwoPairSumZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/HardLevel/TrappingWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/MediumLevel/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/MediumLevel/IndexesSubArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/MediumLevel/SingleElementAmongTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/MediumLevel/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/MediumLevel/TripletSumInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/OtherProblems/MiniminzeHeights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/BookPageComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/DVD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/LibraryItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/LibraryUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/RepositoryUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/librarymanagementsystem/WildcardUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../log4jProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../log4jProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../log4jProject/src/main/java/org/example/module1/Module1Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../log4jProject/src/main/java/org/example/module2/Module2Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../log4jProject/src/main/resources/log4j2-module1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../log4jProject/src/main/resources/log4j2-module2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/InterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/InterfaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/OtherProblems/KadanesAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/MediumLevel/KadanesAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/OtherProblems/PairWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/MediumLevel/PairWithGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATM Machine/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/SortingAlgorithms/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/InterThreadCommunication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/javaconcepts/multithreading/VolatileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/OtherProblems/RecursionSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmmachine/Atm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmmachine/AtmMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmmachine/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/LeetCodeAndGFGProblems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/GeeksForGeeks/easy/ArrayLeaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/GeeksForGeeks/easy/BinaryArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/GeeksForGeeks/easy/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/GeeksForGeeks/easy/PermutationsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/LeetCode/problems/Medium/FactorialTrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/LeetCode/problems/easy/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/LeetCode/problems/easy/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/LeetCode/problems/easy/NthTribonacciSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/LeetCode/problems/easy/NumberOfCommonFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/LeetCode/problems/easy/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/LeetCode/problems/easy/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/LeetCode/problems/easy/RomanIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/LeetCode/problems/easy/twoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeProblems/src/Other/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/BasicLevel/PeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/problems/BasicLevel/PeakElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +65,9 @@
     &quot;accountId&quot;: &quot;6a290f08-7937-4671-ab30-25fbcbcf4e11&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -99,17 +79,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/NehaMN/IdeaProjects/JavaRepo/JavaProjects/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AtmMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/NehaMN/IdeaProjects/JavaRepo/JavaProjects/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

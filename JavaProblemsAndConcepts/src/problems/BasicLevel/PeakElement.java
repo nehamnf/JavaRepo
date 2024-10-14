@@ -4,7 +4,7 @@ Accolite,Amazon,Visa,Adobe,Google
  */
 public class PeakElement {
     public static void main(String[] args) {
-        System.out.println(peakElement(new int[]{1,2,3},3));
+        System.out.println(peakElement(new int[]{1,2,1,3,5,6,4},7));
     }
 
     public static int peakElement(int[] arr,int n)
