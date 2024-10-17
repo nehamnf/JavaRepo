@@ -3,6 +3,7 @@ package javaconcepts.other.concepts;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class BufferedReaderExample {
     public static void main(String[] args)
@@ -13,6 +14,8 @@ public class BufferedReaderExample {
         // class
         FileReader fr = new FileReader("src/javaconcepts/file.txt");
         BufferedReader br = new BufferedReader(fr);
+
+        BufferedReader br1= new BufferedReader(new InputStreamReader(System.in));
 
         char[] c = new char[20];
 
