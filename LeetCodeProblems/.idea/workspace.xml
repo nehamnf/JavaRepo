@@ -5,30 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fda18ee-45b0-44bc-925e-268273f9e2b4" name="Changes" comment="Java Concepts and problems">
-      <change afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/.idea/libraries/mysql_connector_j_9_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/easy/SearchInsertPositionOfKInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Medium/SearchIn2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Medium/SearchIn2DMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Medium/TwoSumSorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATM Machine/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATM Machine/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATM Machine/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATM Machine/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATM Machine/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATM Machine/ATM Machine.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATM Machine/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CarRentalSystem/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CarRentalSystem/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaProblemsAndConcepts/JavaProblemsAndCocepts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/JavaProblemsAndCocepts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/Searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProblemsAndConcepts/src/Searching/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/src/BatchProcessingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/src/PreparedStatementDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/src/StatementDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/PeakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/TransposeMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Map/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Map/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Map/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Map/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Map/Projects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Map/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../log4jProject.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +70,10 @@
     "Application.MergeTwoSortedArrays.executor": "Run",
     "Application.NthTribonacciSequence.executor": "Run",
     "Application.NumberOfCommonFactors.executor": "Run",
+    "Application.PeakElement.executor": "Run",
     "Application.PerfectNumber.executor": "Run",
     "Application.PermutationsInArray.executor": "Run",
+    "Application.PlusOne.executor": "Run",
     "Application.PowerOfTwo.executor": "Run",
     "Application.ProductOfArrayExceptSelf.executor": "Run",
     "Application.RemoveDuplicateFromArray.executor": "Run",
