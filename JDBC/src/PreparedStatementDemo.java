@@ -3,9 +3,9 @@ import com.mysql.cj.jdbc.MysqlDataSource;
 import java.sql.*;
 
 public class PreparedStatementDemo {
-    private static final String url = "jdbc:mysql://127.0.0.1:3306/mydb";
-    private static final String userName="neha";
-    private static final String password="Ofib4Mnfar5@1";
+    private static final String url = "jdbc:mysql://127.0.0.1:3306/";
+    private static final String userName="";
+    private static final String password="";
 
     public static void main(String[] args) {
         MysqlDataSource dataSource = new MysqlDataSource();
@@ -15,9 +15,7 @@ public class PreparedStatementDemo {
 
         try {
             Connection connection = dataSource.getConnection();
-            Statement stmt = connection.createStatement();
             String insertQuery="INSERT INTO students(name,age,marks) VALUES(?,?,?)";
-
             PreparedStatement prpStmt= connection.prepareStatement(insertQuery);
 //            prpStmt.setString(1,"Naseem");
 //            prpStmt.setInt(2,57);

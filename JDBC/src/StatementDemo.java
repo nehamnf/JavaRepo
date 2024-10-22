@@ -24,9 +24,9 @@ class Student{
 }
 
 public class StatementDemo {
-    private static final String url = "jdbc:mysql://127.0.0.1:3306/mydb";
-    private static final String userName="neha";
-    private static final String password="Ofib4Mnfar5@1";
+    private static final String url = "jdbc:mysql://127.0.0.1:3306/";
+    private static final String userName="";
+    private static final String password="";
 
     public static void main(String[] args) {
         MysqlDataSource dataSource = new MysqlDataSource();
