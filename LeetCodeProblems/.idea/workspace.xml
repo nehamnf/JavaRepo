@@ -4,13 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fda18ee-45b0-44bc-925e-268273f9e2b4" name="Changes" comment="Java Concepts and problems">
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/BatchProcessingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/PreparedStatementDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/StatementDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/PeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/PlusOne.java" afterDir="false" />
+    <list default="true" id="6fda18ee-45b0-44bc-925e-268273f9e2b4" name="Changes" comment="jdbc demo">
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/JavaCollections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/src/CollectionInterfaceFullDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/src/ListInterfaceMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/easy/CountZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/easy/Rotateby90Anti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Hard/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Medium/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Medium/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/Medium/SpiralMatrix2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/CountNegativeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/NumberOfSeniorCitizens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/SearchInsertPosition.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LeetCode/problems/easy/TransposeMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/JavaProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/Map/Layer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/Map/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/Map/Mappable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/Map/Park.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/Map/River.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/atmmachine/Atm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/atmmachine/AtmMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/atmmachine/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/BookPageComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/Comparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/DVD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/LibraryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/LibraryUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/Magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/RepositoryUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjects/src/librarymanagementsystem/WildcardUtils.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +60,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -51,52 +91,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.ArrayLeaders.executor": "Run",
-    "Application.BuyAndSellStock.executor": "Run",
-    "Application.CountingSort.executor": "Run",
-    "Application.FactorialTrailingZeroes.executor": "Run",
-    "Application.IndexOfFirstOccurString.executor": "Run",
-    "Application.IsSubsequence.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.LengthOfLastWord.executor": "Run",
-    "Application.LongestCommonPrefix.executor": "Run",
-    "Application.MajorityElement.executor": "Run",
-    "Application.MergeSortedArray.executor": "Run",
-    "Application.MergeSortedArrayWithoutSpace.executor": "Run",
-    "Application.MergeStringsAlternately.executor": "Run",
-    "Application.MergeTwoSortedArrays.executor": "Run",
-    "Application.NthTribonacciSequence.executor": "Run",
-    "Application.NumberOfCommonFactors.executor": "Run",
-    "Application.PeakElement.executor": "Run",
-    "Application.PerfectNumber.executor": "Run",
-    "Application.PermutationsInArray.executor": "Run",
-    "Application.PlusOne.executor": "Run",
-    "Application.PowerOfTwo.executor": "Run",
-    "Application.ProductOfArrayExceptSelf.executor": "Run",
-    "Application.RemoveDuplicateFromArray.executor": "Run",
-    "Application.RemoveDuplicates2.executor": "Run",
-    "Application.RemoveElement.executor": "Run",
-    "Application.RotateArray.executor": "Run",
-    "Application.SearchIn2DMatrix.executor": "Run",
-    "Application.SearchIn2DMatrixII.executor": "Run",
-    "Application.SearchInsertPositionOfKInSortedArray.executor": "Run",
-    "Application.StableSortPosition.executor": "Run",
-    "Application.TwoSumSorted.executor": "Run",
-    "Application.TwoSwap.executor": "Run",
-    "Application.ValidPalindrome.executor": "Run",
-    "Application.ValidParanthesis.executor": "Run",
-    "Application.twoSum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/NehaMN/IdeaProjects/JavaRepo/LeetCodeProblems/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ArrayLeaders.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuyAndSellStock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClimbingStairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountNegativeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorialTrailingZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOfFirstOccurString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthOfLastWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonPrefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LuckyNumbersInMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortedArrayWithoutSpace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeStringsAlternately.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoSortedArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumSizeSubarraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NthTribonacciSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfCommonFactors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfSeniorCitizens.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeakElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PerfectNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PermutationsInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlusOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOfArrayExceptSelf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicateFromArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateImage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rotateby90Anti.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchIn2DMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchIn2DMatrixII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInsertPosition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInsertPositionOfKInSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralMatrix2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StableSortPosition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransposeMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSumSorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSwap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidParanthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidWordSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.twoSum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/NehaMN/IdeaProjects/JavaRepo/LeetCodeProblems/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -114,11 +167,41 @@
       <option name="project" value="LOCAL" />
       <updated>1728928685422</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jdbc demo">
+      <option name="closed" value="true" />
+      <created>1729355685525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729355685526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Concepts and problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Concepts and problems" />
+    <MESSAGE value="jdbc demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdbc demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/problems/easy/LuckyNumbersInMatrix.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/problems/easy/LuckyNumbersInMatrix.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/problems/easy/LuckyNumbersInMatrix.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
