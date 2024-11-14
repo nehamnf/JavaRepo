@@ -4,6 +4,7 @@ package com.myspringboot.rest01.rest;
 import com.myspringboot.rest01.entity.Student;
 import com.myspringboot.rest01.entity.StudentErrorResponse;
 import jakarta.annotation.PostConstruct;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -32,16 +33,10 @@ public class StudentRestController {
 
     @GetMapping("/students/{studentId}")
     public Student getStudentByID(@PathVariable int studentId) {
-        if(students.get(studentId) == null){
-            throw new StudentNotFoundException("Student Not Found: "+studentId);
+        if(studentId < 0 || studentId >= students.size()){
+            throw new StudentNotFoundException("Student Not Found: " + studentId);
         }
         return students.get(studentId);
     }
 
-    @ExceptionHandler
-    public ResponseEntity<StudentNotFoundException> handleError(StudentNotFoundException exc){
-        StudentErrorResponse studentErrorResponse= new StudentErrorResponse();
-
-        return null;
-    }
 }
